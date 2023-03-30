@@ -1,4 +1,4 @@
-FROM debian:11.1
+FROM debian:bullseye-20230320
 LABEL "repository"="https://github.com/elgohr/Github-Release-Action"
 LABEL "maintainer"="Lars Gohr"
 
